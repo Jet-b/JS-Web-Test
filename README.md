@@ -6,5 +6,3 @@ This repo is for my first play around into web dev using JS for backend so that 
 
 - Personal html + css website
 - Creation of smaller company site
-
-test
